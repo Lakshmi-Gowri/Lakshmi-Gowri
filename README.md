@@ -7,8 +7,8 @@
 📫 How to reach me: 
 <p align="center">
 <a href="https://lakshmi-gowri.github.io/dev/"><img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/icon/mouse.png" width="6%"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ashish-ohri/"><img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/icon/linkedin.png" width="5%"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:ashishohri99@gmail.com"><img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/icon/mail.png" width="6%"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="[https://www.linkedin.com/in/ashish-ohri/](https://github.com/Lakshmi-Gowri)"><img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/icon/linkedin.png" width="5%"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:lakshmi.234m@gmail.com"><img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/icon/mail.png" width="6%"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 😄 Pronouns: She/Her
