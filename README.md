@@ -15,7 +15,7 @@
 
 💬 Ask me anything
 
-🌱 I’m currently learning AI and ML
+🌱 I’m currently deep diving into AI
 
 ### Tools, languages and technologies
 
@@ -54,5 +54,3 @@
 
 <br>
 
-## :desktop_computer: My Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshaa2000&langs_count=10&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
