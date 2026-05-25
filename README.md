@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working as a Software Engineer with experience of ML, Data engineer workflows, and deeply involved in solving Machine Learning and Deep Learning related real time problems.
+🔭 I’m currently working as a AI Engineer with experience of ML, Data engineer workflows, and deeply involved in solving Machine Learning and Deep Learning related real time problems.
 
 👯 I’m looking to collaborate in making a cumulative list of algorithm-based beginner friendly projects in Python and ML.
 
